@@ -9,9 +9,9 @@ int main()
 {
 
 	char first, middle, last;
-	first = 'M';
-	middle = 'L';
-	last = 'C';
+	first = 'A';
+	middle = 'O';
+	last = 'W';
 	cout << first << middle << last << endl;
 	return 0;
 }
