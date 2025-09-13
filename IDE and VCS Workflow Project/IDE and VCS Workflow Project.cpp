@@ -8,10 +8,13 @@ int main()
 
 {
 
-	char first, middle, last;
-	first = 'A';
-	middle = 'O';
-	last = 'W';
-	cout << first << middle << last << endl;
+	string name, address, phoneNumber;
+	name = "Michael Claiborne ";
+	address = "123 Newport News ave";
+	phoneNumber = "757-555-3674";
+	cout << name << endl;
+	cout << address << endl;
+	cout << phoneNumber <<endl;
+    
 	return 0;
 }
